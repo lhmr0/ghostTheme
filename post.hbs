@@ -103,7 +103,7 @@
             {{/if}}
 
             <section class="author">
-                <h4><a href="{{url}}">C3P0</a></h4>
+                <h4><a href="{{url}}">{{name}}</a></h4>
 
                 {{#if bio}}
                     <p>{{bio}}</p>
@@ -114,6 +114,7 @@
                 </div>
             </section>
         {{/author}}
+
             <div id="disqus_thread"></div>
             <script>
                 var disqus_config = function () {
@@ -123,7 +124,7 @@
 
                 (function() { // DON'T EDIT BELOW THIS LINE
             var d = document, s = d.createElement('script');
-            s.src = '//luishmr0.disqus.com/embed.js';
+            s.src = '//luishmr0.disqus.com/embed.js';//add ur disqus url 
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
         })();
