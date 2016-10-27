@@ -3,7 +3,7 @@ Tema para ghost, basado en casper, con logo, redes sociales en el header y foote
 
 Cuenta con subscribe, solo debes activarlo desde ghost y aparecerá al final de cada post
 
-He añadido font awesome para las redes sociales, puedes añadir los íconos que quieras
+He añadido font awesome para las redes sociales, puedes añadir los íconos que quieras desde http://fontawesome.io/cheatsheet/
 
 
 Header con logo y redes sociales
