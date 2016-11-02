@@ -13,6 +13,7 @@ Post en index
 ![post](http://i.imgur.com/hliwXPb.jpg)
 
 Footer con redes sociales 
+
 ![footer](http://i.imgur.com/I7ML3j8.png)
 
 Share en cada post, se puede añadir email y muchos más
