@@ -9,8 +9,10 @@ He añadido font awesome para las redes sociales, puedes añadir los íconos que
 Header con logo y redes sociales
 ![header](http://i.imgur.com/eElY2WI.jpg)
 
-Footer con redes sociales 
+Post en index
+![post](http://i.imgur.com/hliwXPb.jpg)
 
+Footer con redes sociales 
 ![footer](http://i.imgur.com/I7ML3j8.png)
 
 Share en cada post, se puede añadir email y muchos más
